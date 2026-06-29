@@ -1,0 +1,101 @@
+Headline,FinBERT_Sentiment,Confidence,Actual_Sentiment,Correct
+JPMorgan reports record quarterly profits,positive,74.4,positive,True
+Federal Reserve signals pause in rate hikes,negative,62.8,positive,False
+Bank of America beats earnings expectations,positive,54.2,positive,True
+Strong jobs report boosts market confidence,positive,87.0,positive,True
+Goldman Sachs raises dividend by 25 percent,positive,62.6,positive,True
+Wells Fargo announces major stock buyback program,neutral,81.1,positive,False
+Consumer spending rises to highest level in years,positive,93.8,positive,True
+Morgan Stanley upgrades banking sector to buy,positive,54.6,positive,True
+Inflation falls below Federal Reserve target,negative,78.0,positive,False
+Credit card delinquencies drop to historic lows,negative,97.2,positive,False
+OneMain Financial reports strong loan growth,positive,94.6,positive,True
+Consumer confidence index reaches five year high,positive,87.5,positive,True
+Banks post strongest quarterly results since 2019,positive,80.9,positive,True
+Federal Reserve holds rates steady boosting stocks,positive,80.8,positive,True
+Loan demand surges as economy strengthens,positive,93.8,positive,True
+JPMorgan expands lending to underserved communities,positive,77.9,positive,True
+Strong retail sales data lifts financial stocks,positive,82.6,positive,True
+Bank stocks rally on positive stress test results,positive,62.7,positive,True
+Goldman Sachs beats revenue estimates by wide margin,positive,67.8,positive,True
+Rising employment drives consumer loan demand higher,negative,44.3,positive,False
+Wells Fargo increases quarterly dividend payment,positive,35.2,positive,True
+Financial sector leads market rally higher,positive,61.0,positive,True
+Consumer debt levels remain manageable analysts say,negative,61.0,positive,False
+Banks report lowest default rates in decade,negative,91.5,positive,False
+Federal Reserve chair signals accommodative policy,neutral,84.3,positive,False
+Credit scores improving across all income levels,positive,95.1,positive,True
+Morgan Stanley reports surge in wealth management,positive,91.8,positive,True
+Bank earnings season off to strong start,positive,94.2,positive,True
+Positive economic data drives financial stocks up,positive,85.9,positive,True
+JPMorgan raises full year earnings guidance,positive,44.9,positive,True
+Consumer loans grow at fastest pace in years,positive,81.4,positive,True
+Banks benefit from steepening yield curve,positive,84.5,positive,True
+Strong housing market boosts mortgage lending,positive,94.4,positive,True
+Financial stocks hit new 52 week highs,positive,70.0,positive,True
+Bank of America reports improved asset quality,positive,95.3,positive,True
+Economy adds more jobs than expected in report,positive,78.0,positive,True
+Lower charge offs boost bank profitability,positive,95.2,positive,True
+Goldman Sachs investment banking revenue surges,positive,85.7,positive,True
+Federal Reserve balance sheet reduction slows,negative,94.3,positive,False
+Consumer borrowing rises on strong confidence,positive,92.5,positive,True
+Wells Fargo loan portfolio shows improvement,neutral,50.4,positive,False
+Banks pass annual stress tests with flying colors,neutral,74.1,positive,False
+Rising wages support consumer loan repayment,positive,94.1,positive,True
+JPMorgan net interest margin expands sharply,positive,94.5,positive,True
+Positive jobs data reduces recession concerns,positive,84.6,positive,True
+Bank stocks outperform broader market this quarter,negative,72.9,positive,False
+Morgan Stanley wealth management assets hit record,negative,59.3,positive,False
+Consumer credit quality remains strong analysts note,positive,95.3,positive,True
+Federal Reserve minutes signal no rate cuts soon,neutral,54.5,positive,False
+OneMain Financial lowers cost of funds significantly,neutral,80.7,positive,False
+JPMorgan warns of rising loan losses ahead,negative,95.6,negative,True
+Federal Reserve raises rates higher than expected,positive,81.2,negative,False
+Bank of America misses earnings by wide margin,negative,96.0,negative,True
+Recession fears grow as consumer spending slows,negative,96.4,negative,True
+Goldman Sachs cuts dividend amid profit decline,negative,93.2,negative,True
+Wells Fargo faces new regulatory investigation,negative,79.1,negative,True
+Consumer spending falls sharply in latest report,negative,97.3,negative,True
+Morgan Stanley downgrades banking sector to sell,negative,70.1,negative,True
+Inflation surges above Federal Reserve target,positive,64.6,negative,False
+Credit card delinquencies rise to highest since 2008,positive,93.1,negative,False
+OneMain Financial reports surge in loan defaults,negative,96.6,negative,True
+Consumer confidence drops to lowest level in years,negative,96.7,negative,True
+Banks face worst quarterly results since financial crisis,negative,97.0,negative,True
+Federal Reserve signals aggressive rate hikes ahead,positive,73.5,negative,False
+Loan demand collapses as economy weakens sharply,negative,96.8,negative,True
+JPMorgan sets aside billions for expected loan losses,neutral,74.9,negative,False
+Weak retail sales data hammers financial stocks,negative,95.6,negative,True
+Bank stocks fall on poor stress test results,negative,94.9,negative,True
+Goldman Sachs misses revenue estimates badly,negative,78.7,negative,True
+Rising unemployment drives consumer loan defaults,negative,96.0,negative,True
+Wells Fargo cuts dividend amid rising losses,negative,93.6,negative,True
+Financial sector leads market selloff lower,negative,84.8,negative,True
+Consumer debt reaches dangerous levels economists warn,negative,89.2,negative,True
+Banks report highest default rates since recession,negative,72.1,negative,True
+Federal Reserve chair signals tighter policy ahead,negative,68.8,negative,True
+Credit scores deteriorating across lower income borrowers,negative,96.7,negative,True
+Morgan Stanley reports sharp drop in wealth management,negative,97.2,negative,True
+Bank earnings season off to terrible start,negative,95.8,negative,True
+Negative economic data drives financial stocks down,negative,96.5,negative,True
+JPMorgan cuts full year earnings guidance sharply,negative,94.0,negative,True
+Consumer loans contract at fastest pace in years,positive,83.9,negative,False
+Banks hurt by flattening yield curve analysts say,negative,94.6,negative,True
+Weak housing market hurts mortgage lending business,negative,96.6,negative,True
+Financial stocks hit new 52 week lows,negative,94.5,negative,True
+Bank of America reports deteriorating asset quality,negative,97.0,negative,True
+Economy loses more jobs than expected in report,negative,96.9,negative,True
+Higher charge offs hurt bank profitability sharply,negative,96.9,negative,True
+Goldman Sachs investment banking revenue collapses,neutral,93.3,negative,False
+Federal Reserve balance sheet reduction accelerates,negative,70.9,negative,True
+Consumer borrowing falls on weakening confidence,negative,97.0,negative,True
+Wells Fargo loan portfolio shows serious deterioration,negative,94.5,negative,True
+Banks fail annual stress tests raising concerns,negative,91.5,negative,True
+Falling wages hurt consumer loan repayment ability,negative,96.6,negative,True
+JPMorgan net interest margin compresses sharply,negative,89.6,negative,True
+Negative jobs data increases recession probability,negative,96.3,negative,True
+Bank stocks underperform broader market this quarter,negative,95.8,negative,True
+Morgan Stanley wealth management assets drop sharply,negative,96.8,negative,True
+Consumer credit quality deteriorating analysts warn,negative,76.4,negative,True
+Federal Reserve minutes signal aggressive rate hikes,positive,72.9,negative,False
+OneMain Financial sees rising cost of funds,negative,88.5,negative,True
